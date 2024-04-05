@@ -1,5 +1,5 @@
 # Exp.No : 05 
-Date : 09.10.2023 
+Date : 05.04.2024 
 # Stock Price Prediction
 ## AIM
 To develop a Recurrent Neural Network model for stock price prediction.
