@@ -129,8 +129,7 @@ mse(y_test,predicted_stock_price)
 ## OUTPUT
 
 ### True Stock Price, Predicted Stock Price vs time
-
-![image](https://github.com/Yamunaasri/rnn-stock-price-prediction/assets/115707860/9bebd725-de19-4bf4-be37-ac6cbf1860f9)
+![image](https://github.com/Yamunaasri/rnn-stock-price-prediction/assets/115707860/60cd3425-2c0b-46a7-bdc6-2376f2129ed8)
 
 ### Mean Square Error
 ![image](https://github.com/Yamunaasri/rnn-stock-price-prediction/assets/115707860/8dba3bef-d182-4fe3-8dfb-b8be8239a324)
