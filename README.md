@@ -20,12 +20,16 @@ To develop a Recurrent Neural Network model for stock price prediction.
 ## DESIGN STEPS
 
 **Step 1:** Import the required packages
-**Step 2:** Load the dataset
-**Step 3:** Perform the necessary data preprocessing 
-**Step 4:** Build and fit the data in the Learning model
-**Step 5:** Predict using the fit model
-**Step 6:** Check the error value of the predicted pricing model 
 
+**Step 2:** Load the dataset
+
+**Step 3:** Perform the necessary data preprocessing 
+
+**Step 4:** Build and fit the data in the Learning model
+
+**Step 5:** Predict using the fit model
+
+**Step 6:** Check the error value of the predicted pricing model 
 
 ## PROGRAM
 ```
